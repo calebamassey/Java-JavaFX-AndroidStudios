@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter_4_PhotoPrint</string>
+    <string name="quantityTextView">How many photos?</string>
+    <string name="quantityHint">Enter Number</string>
+    <string name="sizeTextView">What size photos?</string>
+    <string name="radioButton1">4 X 6 Prints (19 cents each)</string>
+    <string name="radioButton2">5 X 7 Prints (49 cents each)</string>
+    <string name="radioButton3">8 X 10 Prints (79 cents each)</string>
+    <string name="submitButton">ORDER PRINTS</string>
+</resources>

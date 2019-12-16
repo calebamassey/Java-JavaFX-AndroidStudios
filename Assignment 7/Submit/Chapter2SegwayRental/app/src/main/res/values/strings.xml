@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter 2 Segway Rental</string>
+    <string name="title_ID">Segway Rentals</string>
+    <string name="description_ID">Experience the wonder of this future advancement of transportation for a city group tour starting at noon each day.</string>
+    <string name="button_ID">RENT A SEGWAY</string>
+    <string name="price_ID">The Segway tour is only $52 for an amazing 2-hour journey.</string>
+</resources>

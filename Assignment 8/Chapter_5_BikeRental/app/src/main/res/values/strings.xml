@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chapter_5_BikeRental</string>
+    <string name="beach">Beach Bike Rental Image</string>
+    <string name="mountain">Mountain Bike Rental Image</string>
+    <string name="website">Bike Rental Website Image</string>
+    <string name="title_activity_mountain">Mountain Bike Renteal</string>
+    <string name="title_activity_beach">Beach Bike Rental</string>
+</resources>

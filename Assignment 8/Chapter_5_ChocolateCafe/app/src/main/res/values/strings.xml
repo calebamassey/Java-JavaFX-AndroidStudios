@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter 5 ChocolateCafe</string>
+    <string name="mousse">Chocolate Mousse Image</string>
+    <string name="cake">Chocolate Cake Image</string>
+    <string name="macaron">Chocolate Macaron Image</string>
+</resources>
